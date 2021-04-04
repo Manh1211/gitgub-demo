@@ -29,5 +29,6 @@ function ouput(){
 function hello_user(){
     var name;
     name = prompt();
+    
     alert('Hello welcome ' + name + ' to my web');
 }
